@@ -29,3 +29,4 @@ src/tests/antunit/core/output
 /log.xml
 lib/optional/license.txt
 /release/distrib/
+src/tests/junit/org/apache/tools/ant/AntAssert.java
